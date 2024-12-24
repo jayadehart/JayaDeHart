@@ -18,6 +18,9 @@
 [Hoop Vision](https://github.com/JayaDeHart/hoop-vision)
 A basketball prediction application based on the T3 stack: Next.js, tRPC, Drizzle and Auth.js
 
+[Shelf Switcher](https://github.com/JayaDeHart/shelf-switcher)
+A devtools chrome extension I am currently working on
+
 <h3>Some articles I've written</h3>
 
 <a href="https://upmostly.com/tutorials/getting-started-testing-react" target="_blank" rel="noopener noreferrer">
