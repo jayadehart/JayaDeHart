@@ -15,6 +15,8 @@
 </p>
 <h3>My Projects</h3>
 
+[Todo App](https://github.com/JayaDeHart/todo-frontend) A todo app with drag and drop functionality. Showcases Next.js, DnD Kit, React Query, Express and Prisma.
+
 [Hoop Vision](https://github.com/JayaDeHart/hoop-vision)
 A basketball prediction application based on the T3 stack: Next.js, tRPC, Drizzle and Auth.js
 
