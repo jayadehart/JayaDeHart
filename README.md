@@ -15,6 +15,8 @@
 </p>
 <h3>My Projects</h3>
 
+[RAG Chatbot](https://github.com/jayadehart/js-melee-rag) A Retrieval Augmented Generation Chatbot.Can reliably answer any questions about Melee frame data. Showcases Next.js, LangGraph, Supabase, and the Vercel AI SDK.
+
 [Todo App](https://github.com/JayaDeHart/todo-frontend) A todo app with drag and drop functionality. Showcases Next.js, DnD Kit, React Query, Express and Prisma.
 
 [Hoop Vision](https://github.com/JayaDeHart/hoop-vision)
@@ -40,3 +42,7 @@ A devtools chrome extension I am currently working on
 |-------------------------------|-----------------------------------------------------------|---------------------------------------------------|
 | T3 Stack                      | Improved documentation with new tabs component and documentation for Next.js App Router      | [View Contribution](https://github.com/t3-oss/create-t3-app/pull/2012) |
 | T3 Stack                      | Added documentation for drizzle orm                       | [View Contribution](https://github.com/t3-oss/create-t3-app/commit/7147930c10617d16cb0c2881549830de20a5a354) |
+
+
+
+https://github.com/jayadehart/js-melee-rag
