@@ -15,7 +15,7 @@
 </p>
 <h3>My Projects</h3>
 
-[RAG Chatbot](https://github.com/jayadehart/js-melee-rag) A Retrieval Augmented Generation Chatbot.Can reliably answer any questions about Melee frame data. Showcases Next.js, LangGraph, Supabase, and the Vercel AI SDK.
+[RAG Chatbot](https://github.com/jayadehart/js-melee-rag) A Retrieval Augmented Generation Chatbot. Can reliably answer any questions about Melee frame data. Showcases Next.js, LangGraph, Supabase, and the Vercel AI SDK.
 
 [Todo App](https://github.com/JayaDeHart/todo-frontend) A todo app with drag and drop functionality. Showcases Next.js, DnD Kit, React Query, Express and Prisma.
 
