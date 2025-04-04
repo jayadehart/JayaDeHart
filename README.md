@@ -42,7 +42,3 @@ A devtools chrome extension I am currently working on
 |-------------------------------|-----------------------------------------------------------|---------------------------------------------------|
 | T3 Stack                      | Improved documentation with new tabs component and documentation for Next.js App Router      | [View Contribution](https://github.com/t3-oss/create-t3-app/pull/2012) |
 | T3 Stack                      | Added documentation for drizzle orm                       | [View Contribution](https://github.com/t3-oss/create-t3-app/commit/7147930c10617d16cb0c2881549830de20a5a354) |
-
-
-
-https://github.com/jayadehart/js-melee-rag
